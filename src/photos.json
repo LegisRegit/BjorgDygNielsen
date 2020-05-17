@@ -1,0 +1,15 @@
+[
+    {
+      "id": 0,
+      "title": "Whack",
+      "filename": "whack1.jpg",
+      "material": "Whack ink on whack paper - Large"
+    },
+
+    {
+        "id": 1,
+        "title": "Whack the second",
+        "filename": "whack2.jpg",
+        "material": "Whack ink on whack paper - Large"
+    }
+  ]
